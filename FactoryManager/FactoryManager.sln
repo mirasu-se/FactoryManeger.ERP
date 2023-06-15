@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryManager", "FactoryManager.csproj", "{67648C66-7584-467C-9888-D0C8AD2F2A03}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpaceM2.Core", "..\SpaceM2.Core\SpaceM2.Core.csproj", "{C4077D70-380C-4BCA-9985-8EE5536C03ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67648C66-7584-467C-9888-D0C8AD2F2A03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67648C66-7584-467C-9888-D0C8AD2F2A03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67648C66-7584-467C-9888-D0C8AD2F2A03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67648C66-7584-467C-9888-D0C8AD2F2A03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4077D70-380C-4BCA-9985-8EE5536C03ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4077D70-380C-4BCA-9985-8EE5536C03ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4077D70-380C-4BCA-9985-8EE5536C03ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4077D70-380C-4BCA-9985-8EE5536C03ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF1F7D80-704D-4805-9E3D-D241726139E0}
+	EndGlobalSection
+EndGlobal
